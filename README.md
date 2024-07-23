@@ -4,7 +4,7 @@
 | -------- | -------- |
 | 👀 I’m interested in | Gaming, game development, os development and web development, and I love Rust 🦀 |
 | 🧠 I’m currently learning | Neovim, writing the loadout for it, after moving from VSCode |
-| 📫 How to reach me | *chloeturnerdev@gmail.com* 📧 |
+| 📫 How to reach me | *aliceturnerdev@gmail.com* 📧 |
 | ⚧️ Pronouns | She/her/miss/mam/fluffy |
 | 💙 fact | I've got a little boy who love the mostest, Harry!! <3 |
 
